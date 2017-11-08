@@ -1,10 +1,6 @@
-About this site
+Om sidan
 ==============================================
 
-The primary focus of this site is to:
+<img src="img/patience.jpg" alt="Ieva" style="display:block;margin:0 auto;">
 
-* To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
-
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
-
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se) and modified by [Ieva Sargautyte](https://github.com/tyte) (ieva@skyhook.se).
+Denna sida är en del i BTH webbprogrammeringskursen [design](http://dbwebb.se/kurser/design). Uppdateras av mig, Ieva Sargautyte. Sidan är byggd i Anax Flat ramverk.
