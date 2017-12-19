@@ -5,4 +5,5 @@ Om sidan
 
 Denna sida är en del i BTH webbprogrammeringskursen [design](http://dbwebb.se/kurser/design). Uppdateras av mig, Ieva Sargautyte. Sidan är byggd i Anax Flat ramverk.
 
-Min version av sidan hittar du på [github](https://github.com/tyte/me.git).
+Min version av sidan på Github: [github](https://github.com/tyte/me).
+Mitt Anax-Flat tema på Github: [github](https://github.com/tyte/anax-flat-theme).
